@@ -1,0 +1,6 @@
+{
+  "name": "Control Testing Evidence Assistant",
+  "description": "Organize purchasing transaction and managerial approval evidence against a $1,000 pre-payment approval policy, surface missing or inconsistent records, and draft neutral follow-up questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
